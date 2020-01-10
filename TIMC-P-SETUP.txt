@@ -1,0 +1,10 @@
+LAPIS
+5
+40
+0
+20
+2
+Bidirectional
+axis1
+9.8
+8.2
